@@ -24,22 +24,38 @@ Talks about Turing:
 - Professor Jack Copeland
     - https://www.youtube.com/watch?v=p7Lv9GxigYU
 
-
-
 ### Brenda Milner
 
 Press Articles:
 - nytimes
     - https://www.nytimes.com/2017/05/15/science/brenda-milner-brain-cognitive-neuroscience.html?_r=0
 
+Interview:
+    - https://www.youtube.com/watch?v=g4-6A8u8QBc&list=PLC9539B116147A98A&index=26
+
 ### Wilder Penfield
 
-Heritage Minutes: https://www.youtube.com/watch?v=pUOG2g4hj8s
-
-
+- Heritage Minutes:
+    - https://www.youtube.com/watch?v=pUOG2g4hj8s
 
 ### Walter Pitts
 
 Press Articles:
 - The Man who Tried to Redeem the World with Logic
     - http://bit.ly/1C3UhM0
+
+### Margaret Boden
+
+- BBC Interview:
+    - http://www.bbc.co.uk/programmes/b04lpzyr
+
+### Tversky & Kahneman
+
+Press Articles:
+    - http://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think
+
+
+### Marta Kutas
+
+Interview:
+    - http://socialsciences.ucsd.edu/econnection/spring2017/marta-kutas.html

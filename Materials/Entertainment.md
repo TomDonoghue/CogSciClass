@@ -3,7 +3,7 @@
 
 ## Movies:
 
-    Indiana University keeps a list of Cognitive Science related films. Some of these suggestions are pulled from there, and if you want a more complete list of movies that relate to cognitive science, you can check out their list here: https://www.indiana.edu/~cogfilms/
+Indiana University keeps a list of Cognitive Science related films. Some of these suggestions are pulled from there, and if you want a more complete list of movies that relate to cognitive science, you can check out their list here: https://www.indiana.edu/~cogfilms/
 
 - Awakenings
 - A Beautiful Mind
@@ -18,6 +18,11 @@
 - Her
 - Project Nim
 - Eternal Sunshine of the Spotless Mind
+
+## TV Shows
+
+- Humans
+- Westworld
 
 ## Books (Fiction):
 

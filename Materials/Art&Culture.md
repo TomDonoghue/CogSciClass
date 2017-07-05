@@ -22,8 +22,8 @@
 
 At its most broad, cognitive science is trying to explain how we go around doing what we do, thinking what we think, and feeling what we feel. The scientific method is one approach to these questions, with it’s own strengths and weaknesses. Sometimes a totally different approach seems to capture something about human experience.
 
-This is Water - David Foster Wallace - A commencement speech.
-    https://www.youtube.com/watch?v=pfw2Qf1VfJo
+- This is Water - David Foster Wallace - A commencement speech.
+    - https://www.youtube.com/watch?v=pfw2Qf1VfJo
 
-To This Day… - Shane Koyczan - Spoken word poem
-    https://www.youtube.com/watch?v=sa1iS1MqUy4
+- To This Day… - Shane Koyczan - Spoken word poem
+    - https://www.youtube.com/watch?v=sa1iS1MqUy4

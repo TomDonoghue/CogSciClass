@@ -50,6 +50,8 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 
 ### Computation
 
+- Alan Turing and the advent of computation
+	- https://www.washingtonpost.com/national/health-science/what-imitation-game-didnt-tell-you-about-alan-turings-greatest-triumph/2015/02/20/ffd210b6-b606-11e4-9423-f3d0a1ec335c_story.html?utm_term=.fb3579f9f7dd
 - The Number too Big For Computers
 	- http://www.bbc.com/future/story/20150505-the-numbers-that-lead-to-disaster
 
@@ -81,6 +83,12 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 
 ### Language / Linguistics
 
+- Constructed Languages in Movies
+	- Introduction Article: https://www.wired.com/2017/04/conlang-analysis/
+	- Video: https://www.youtube.com/watch?v=oa6cHEJIjYI
+	- 10 Geekiest Constructed Languages: https://www.wired.com/2009/08/top-ten-geekiest-constructe-languages/
+- Esperanto: An Artificially Constructed Language Designed for World Peace
+	- https://www.theverge.com/2015/5/29/8672371/learn-esperanto-language-duolingo-app-origin-history
 - Mumbling as Data Compression
 	- http://nautil.us/blog/mumbling-isnt-a-sign-of-lazinessits-a-clever-data_compression-trick
 - The Piraha Amazonian Tribe

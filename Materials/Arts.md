@@ -8,9 +8,12 @@
 
 ## Generative Art
 
+Generative Art is ...
+
 - Mario Klingemann
-    - Gallery: https://www.flickr.com/photos/quasimondo
-    - Article: https://www.wired.com/story/neurographer-puts-the-art-in-artificial-intelligence/
+    - Klingemann ...
+        - Gallery: https://www.flickr.com/photos/quasimondo
+        - Article: https://www.wired.com/story/neurographer-puts-the-art-in-artificial-intelligence/
 
 - Adam Ferriss: a digital artist, often uses code to create art
     - Website: https://www.adamferriss.com

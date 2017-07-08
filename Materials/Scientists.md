@@ -27,14 +27,24 @@ Talks about Turing:
 ### Brenda Milner
 
 Press Articles:
-- nytimes
+- NYTimes Profile
     - https://www.nytimes.com/2017/05/15/science/brenda-milner-brain-cognitive-neuroscience.html?_r=0
 
 Interview:
+- Archival Video Interview:
     - https://www.youtube.com/watch?v=g4-6A8u8QBc&list=PLC9539B116147A98A&index=26
 
 ### Wilder Penfield
 
+Press Articles:
+- Wilder Penfield, Neural Cartographer
+    - http://scienceblogs.com/neurophilosophy/2008/08/27/wilder-penfield-neural-cartographer/
+- The Hardest Cut: Penfield and the Fight for his Sister
+    - https://mindhacks.com/2007/06/28/the-hardest-cut-penfield-and-the-fight-for-his-sister/
+
+Videos:
+- Brief Biography Video:
+    - https://www.youtube.com/watch?v=68MiW2KK1us
 - Heritage Minutes:
     - https://www.youtube.com/watch?v=pUOG2g4hj8s
 
@@ -46,16 +56,19 @@ Press Articles:
 
 ### Margaret Boden
 
+Interviews:
 - BBC Interview:
     - http://www.bbc.co.uk/programmes/b04lpzyr
 
 ### Tversky & Kahneman
 
 Press Articles:
-    - http://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think
+    - The two friends who changed how we think about how we think
+        - http://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think
 
 
 ### Marta Kutas
 
 Interview:
-    - http://socialsciences.ucsd.edu/econnection/spring2017/marta-kutas.html
+    - Marta Kutas Interview
+        - http://socialsciences.ucsd.edu/econnection/spring2017/marta-kutas.html

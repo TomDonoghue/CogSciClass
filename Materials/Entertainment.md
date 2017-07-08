@@ -5,19 +5,20 @@
 
 Indiana University keeps a list of Cognitive Science related films. Some of these suggestions are pulled from there, and if you want a more complete list of movies that relate to cognitive science, you can check out their list here: https://www.indiana.edu/~cogfilms/
 
-- Awakenings
 - A Beautiful Mind
 - Artificial Intelligence: AI
-- Transcendance
-- The Imitation Game
+- Awakenings
 - Chappie
-- Ex Machina
-- Inside Out
-- The Experimenter
-- The Stanford Prison Experiment
-- Her
-- Project Nim
 - Eternal Sunshine of the Spotless Mind
+- Ex Machina
+- Ghost in the Shell (1995)
+- Her
+- Inside Out
+- Project Nim
+- The Experimenter
+- The Imitation Game
+- The Stanford Prison Experiment
+- Transcendance
 
 ## TV Shows
 

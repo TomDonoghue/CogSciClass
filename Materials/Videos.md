@@ -56,8 +56,10 @@ The Royal Society of Arts is an organisation dedicated to trying to find practic
     - https://www.youtube.com/watch?v=m2ViWnfbADE
 - Madhumita Murgia, PhD - How Stress Affects Your Brain
     - https://www.youtube.com/watch?v=WuyPuH9ojCE
+- Alex Gendler - The Turing Test: Can a Computer Pass for a Human?
+    - https://www.youtube.com/watch?v=3wLqsRLvV-c
 
-### History of Neuroscience
+## History of Neuroscience
 
 - Long-form Interview Videos from Society for Neuroscience
     - https://www.youtube.com/playlist?list=PLC9539B116147A98A

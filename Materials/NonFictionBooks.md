@@ -23,3 +23,5 @@
     - Exploring the design process behind everyday objects.
 - What the F - Ben Bergen
     - A deep dive into swearing, and what it tells us language, and our brains.
+- Furiously Happy - Jenny Lawson
+    - A memoir full of wit and humour, Jenny Lawson's journey to be furiously happy in the face of mental illnes.

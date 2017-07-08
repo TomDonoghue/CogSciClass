@@ -12,7 +12,7 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 - AI: Using Video Games to Understand Reality
 	- http://www.economist.com/news/science-and-technology/21721890-games-help-them-understand-reality-why-ai-researchers-video-games
 - AI & Chess
-	http://reallifemag.com/computer-moves/
+	- http://reallifemag.com/computer-moves/
 - Dark Secret of Neural Networks
 	- https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/
 - Deconstructing Blade Runner with Machine Learning
@@ -86,7 +86,7 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 - The Piraha Amazonian Tribe
 	- http://www.newyorker.com/magazine/2007/04/16/the-interpreter-2
 
-## Human-Computer Interaction / Design & Cognitive Science
+### Human-Computer Interaction / Design & Cognitive Science
 
 - Siri - A companion for an autistic child
 	- http://nyti.ms/1wlh1Fr
@@ -95,7 +95,6 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 	- http://www.theatlantic.com/technology/archive/2014/11/the-boy-with-the-lego-hand/382637/2/
 	- http://nerdist.com/new-lego-compatible-prosthetic-limb-gives-kids-something-to-smile-about/
 	- http://www.nytimes.com/2015/02/17/science/hand-of-a-superhero.html?partner=rss&emc=rss&_r=0
-
 
 ### Mental Health & Psychiatry
 
@@ -119,7 +118,8 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 
 ### Philosophy / Consciousness
 
-- Consciousness Began When the Gods Stopped Speaking (Exploring a (weird - probably wrong) theory of consciousness)
+- Consciousness Began When the Gods Stopped Speaking
+	- Exploring a (weird, probably wrong, but interesting) theory of consciousness.
 	- http://nautil.us/issue/24/error/consciousness-began-when-the-gods-stopped-speaking
 - Rethinking Consciousness with Michael Graziano
 	- http://thepsychreport.com/science/rethinking-consciousness-a-qa-with-michael-graziano/

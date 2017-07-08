@@ -10,27 +10,31 @@
 8.  Psychology: Behaviourism and Cognition
 9.  AI: Good Ol' Fashioned AI
 10. AI: Modern AI - Ditching Symbols and Going Parallel
-11. Learning & Memory: Cognitive Psychology
-12. Learning & Memory: Neural Basis of Memory
-13. Perception: Sensation, Perception, and Psychophysics
-14. Perception: Biology of Perception
+11. Perception: Sensation, Perception, and Psychophysics
+12. Perception: Biology of Perception
+13. Learning & Memory: Cognitive Psychology
+14. Learning & Memory: Neural Basis of Memory
 15. Logic & Computation
-XX. Machine Learning (??)
-16. Development: Cognition Through the Ages
-17. Social Psychology
-18. Representations
-19. Consciousness
-20. Vision
-21. Anthropogeny: Human Evolution
-22. Anthropogeny: Comparative Studies
-23. Electrophysiology
-XX. Research Methods, Ethics & Statistics
-24. Neuroimaging
-25. Language I
-26. Language II
-27. Robotics: Human-Robot Interaction (HRI)
-28. Hacking into the Brain: Neuro-Prostheses & Brain-Computer Interfaces
-29. Drugs
-30. Mental Health
-31. Embodied Cognition
-32. Action Perception
+16. Machine Learning
+17. Research Methods & Statistics
+18. Research Practice & Ethics
+19. Development: Cognition Through the Ages
+20. Social Psychology
+21. Representations
+22. Language I
+23. Language II
+24. Vision
+25. Anthropogeny: Human Evolution
+26. Anthropogeny: Comparative Studies
+27. Electrophysiology
+28. Neuroimaging
+29. Robotics: Human-Robot Interaction (HRI)
+30. Hacking into the Brain: Neuro-Prostheses & Brain-Computer Interfaces
+31. Drugs
+32. Mental Health
+33. Embodied Cognition
+34. Chaos Theory
+
+Extra / Old Lectures:
+- Consciousness
+- Action Perception

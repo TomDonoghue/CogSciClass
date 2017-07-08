@@ -121,5 +121,5 @@ At its most broad, cognitive science is trying to explain how we go around doing
 - The Last Mile - Noah St. John
     - https://www.youtube.com/watch?v=-Lug_IxFKo8
 
-- Tiny Glowing Screens Pt 1 - George Watsky
+- Tiny Glowing Screens Pt 2 - George Watsky
     - https://www.youtube.com/watch?v=1SWZ7qWEjUs

@@ -10,6 +10,8 @@ Words, words, words.
     - Neuroscientist turned artist, who depicts neuroscience as art
         - Website: http://www.gregadunn.com
         - Article & Gallery: http://www.thisiscolossal.com/2017/04/brain-depicted-with-gold-leaf/
+        - Article on Self-Reflected project: http://knowingneurons.com/2017/07/19/self-reflected-dunn/
+
 
 - The Neuro Bureau: Brain-Art Competition
     - A non-profit, the Neuro Bureau run a competition each year for artistic neuro images.

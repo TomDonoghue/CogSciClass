@@ -54,6 +54,14 @@ Press Articles:
 - The Man who Tried to Redeem the World with Logic
     - http://bit.ly/1C3UhM0
 
+### Claude Shannon & Mary Elizabeth Moore
+
+Press Articles:
+- 10,000 Hours with Claude Shannon: How a Genius Thinks, Works, and Lives
+    - http://bit.ly/2vGb7lN
+- Betty Shannon: Unsung Mathematical Genius
+    - https://blogs.scientificamerican.com/voices/betty-shannon-unsung-mathematical-genius/
+
 ### Margaret Boden
 
 Interviews:
@@ -65,7 +73,6 @@ Interviews:
 Press Articles:
     - The two friends who changed how we think about how we think
         - http://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think
-
 
 ### Marta Kutas
 

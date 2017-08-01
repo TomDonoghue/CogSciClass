@@ -71,11 +71,11 @@ Interviews:
 ### Tversky & Kahneman
 
 Press Articles:
-    - The two friends who changed how we think about how we think
-        - http://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think
+- The two friends who changed how we think about how we think
+    - http://www.newyorker.com/books/page-turner/the-two-friends-who-changed-how-we-think-about-how-we-think
 
 ### Marta Kutas
 
 Interview:
-    - Marta Kutas Interview
-        - http://socialsciences.ucsd.edu/econnection/spring2017/marta-kutas.html
+- Marta Kutas Interview
+    - http://socialsciences.ucsd.edu/econnection/spring2017/marta-kutas.html

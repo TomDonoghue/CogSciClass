@@ -82,8 +82,29 @@ Generative Art is art that is created with the use of an autonomous system. Ofte
     - Generative artist, creates art pieces by programming in Python!
         - Website: http://inconvergent.net
         - Gallery: http://img.inconvergent.net
+        
+- Jon McCormack:
+    - Artist introduced in computers abilities to enhance and augment creativity.
+        - Website: http://jonmccormack.info
+        - Gallery: http://jonmccormack.info/artworks/
+        
+- William Latham:
+    - Creater of 'Organic Art', and works on 'evolutionary art', including using 3-D computer models of organic life forms.
+        - Gallery: http://latham-mutator.com
+        - Interview: https://creators.vice.com/en_us/article/53wpeq/william-latham-was-making-digital-art-before-it-was-cool
+        - Faculty Page: http://www.gold.ac.uk/computing/staff/w-latham/
 
-### Software
+### AI Systems and/or Software
+
+- The Painting Fool
+    - The Painting Fool is an aspiring painter, who also happens to be a computer program. 
+        - Website: http://www.thepaintingfool.com
+    
+- AARON
+    - A computer program by Harold Cohen that creates original artistic images.
+        - Website: http://www.aaronshome.com/aaron/aaron/index.html
+        - Gallery: http://www.aaronshome.com/aaron/aaron/gallery/index.html
+        - AARON's history: http://www.kurzweilcyberart.com/aaron/history.html
 
 - pix2pix
     - A neural net that human drawn doodles, and fills them in.

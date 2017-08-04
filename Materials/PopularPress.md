@@ -13,10 +13,6 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 	- http://www.economist.com/news/science-and-technology/21721890-games-help-them-understand-reality-why-ai-researchers-video-games
 - AI & Chess
 	- http://reallifemag.com/computer-moves/
-- Dark Secret of Neural Networks
-	- https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/
-- Deconstructing Blade Runner with Machine Learning
-	- https://www.vox.com/2016/6/1/11787262/blade-runner-neural-network-encoding
 - 'What's the Big Data' is a tech-oriented blog, with a number of relevant posts:
 	- History of AI: https://whatsthebigdata.com/2017/02/12/a-very-short-history-of-artificial-intelligence-ai/
 	- Timeline of AI: https://whatsthebigdata.com/2016/09/30/timeline-of-artificial-intelligence/
@@ -27,6 +23,17 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 	- http://bit.ly/2tOJLgz
 - Magic Tricks Made by AI
 	- https://www.wired.com/2014/11/ai-magic/
+
+### Artificial Neural Networks & Deep Learning
+
+- Dark Secret of Neural Networks
+	- https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/
+- Deconstructing Blade Runner with Machine Learning
+	- https://www.vox.com/2016/6/1/11787262/blade-runner-neural-network-encoding
+- How Neural Networks Learn from Experience: Geoff Hinton
+	- https://pdfs.semanticscholar.org/e40f/38344612e000dce6f083fa24bb85eb623e8f.pdf
+- Simulating Brain Damage: Geoff Hinton (looks at how ANNs can mimic brain damage)
+	- http://www.cs.toronto.edu/~fritz/absps/sciam93.pdf
 
 ### AI, Computation, & Ethics
 

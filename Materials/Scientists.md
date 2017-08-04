@@ -79,3 +79,11 @@ Press Articles:
 Interview:
 - Marta Kutas Interview
     - http://socialsciences.ucsd.edu/econnection/spring2017/marta-kutas.html
+
+### Geoff Hinton
+
+Press Articles:
+- New York Times profile
+    - https://www.nytimes.com/2017/06/23/world/canada/the-man-who-helped-turn-toronto-into-a-high-tech-hotbed.html
+- Wired profile
+    - https://www.wired.com/2014/01/geoffrey-hinton-deep-learning/

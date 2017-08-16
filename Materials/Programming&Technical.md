@@ -14,35 +14,33 @@ There are two current main version of Python - Python2 and Python3. They are ver
 
 ### Resources for Python:
 
-As a beginner, I recommend starting with CodeAcademy, since it is a good, simple, introduction to how the language works, and runs online. From there, get Python set up on your own computer (using Anaconda - see below), and work through one of the more advanced tutorials. 
-
-Programming ultimately takes time, and lots of practice. There are some links with examples and programming tasks to practice with. Once you have a handle on the basics of the Python, the best way to keep working is to have some kind of a project to work on.
+As a beginner, I recommend starting with CodeAcademy, since it is a good, simple, introduction to how the language works, and runs online. From there, get Python set up on your own computer (using Anaconda - see below), and work through one of the more advanced tutorials, running code on your own computer. Programming ultimately takes time, and lots of practice. There are some links with examples and programming tasks to practice with. Once you have a handle on the basics of the Python, the best way to keep working is to have some kind of a project to work on.
 
 The official Python website (https://www.python.org/) also has a lot of good resources. Click on ‘Documentation’ to go to the official tutorials and help documents.
 
+Python Resources:
 - ‘Codecademy’ has some great beginner tutorials that don’t assume any prior programming knowledge, for Python, and also for many other programming languages. These tutorials run directly in the browser, so you don't have to set anything up on your computer. 
     - https://www.codecademy.com/
 
-A Byte of Python:    
+- A Byte of Python is a free introduction / tutorial / book for starting with Python.
     - https://python.swaroopch.com
-  
 
-- ‘Learn Python the Hard Way’ is a book, available free online, that functions as a massive tutorial to learn Python. I recommend it as a great tutorial that I think is a bit better at helping you understand how code works. It’s not actually difficult, the ‘hard’ part refers to it asking you to learn by doing. The tutorials are quite fun, and it quickly gets you started on creating a little text-based video game.
+- 'Learn Python the Hard Way' is another tutorial / book introduction to Python, focused on a hands-on, project based approach to learning Python, which I used and liked. However, there used to be a free version, which no longer appears to be the case, although you can still access a set of demo chapters. 
     - http://learnpythonthehardway.org/book/
 
 
 If you are already familiar with programming in general, check out this 'Whirlwind Tour of Python'
-    - https://github.com/jakevdp/WhirlwindTourOfPython
+- https://github.com/jakevdp/WhirlwindTourOfPython
 
 Once you've started to get a feel for the language, if you want some problems to work on, try the following:
-    - The Python Challenge: http://www.pythonchallenge.com
-    - Project Euler: https://projecteuler.net
+- The Python Challenge: http://www.pythonchallenge.com
+- Project Euler: https://projecteuler.net
 
 One of the best parts of Python is how much available resources there are. Below are links to collections of other resources that may be useful:
-    - Python Learning Resources: https://github.com/CodementorIO/Python-Learning-Resources
-    - Best Python Resources: https://www.fullstackpython.com/best-python-resources.html
-    - Hitchhiker's Guide to Python: http://docs.python-guide.org/en/latest/intro/learning/
-    - Quora, How to start learning Python: https://www.quora.com/How-should-I-start-learning-Python-1
+- Python Learning Resources: https://github.com/CodementorIO/Python-Learning-Resources
+- Best Python Resources: https://www.fullstackpython.com/best-python-resources.html
+- Hitchhiker's Guide to Python: http://docs.python-guide.org/en/latest/intro/learning/
+- Quora, How to start learning Python: https://www.quora.com/How-should-I-start-learning-Python-1
 
 ### Managing Python: Anaconda & Jupyter Notebooks
 
@@ -51,31 +49,31 @@ Python is made up of the core (standard) library, and then lots of extra package
 In addition to offering a way to manage Python, Anaconda comes with Jupyter Notebooks, a powerful tool for interactive programming with Python (http://jupyter.org).
 
 Follow this link, and download Anaconda for your operating system. You will get a program called Navigator, from which you can launch Jupyter notebooks:
-    - https://www.continuum.io/downloads
+- https://www.continuum.io/downloads
 
 ### Scientific Python
 
-Once you have the basics down, you will want to move on to using for scientific purposes. With Anaconda, you will have all the main packages you need for this - scipy, numpy, matplotlib, pandas, nltk, etc. To learn how to use these packages, you can follow along with a course 
+Once you have the basics down, you will want to move on to using for scientific purposes. With Anaconda, you will have all the main packages you need for this - scipy, numpy, matplotlib, pandas, nltk, etc. To learn how to use these packages, you can follow along with a course I worked on at UCSD - Hands on Data Science (programming in Python for 'Data Science' is effectively the same as scientific programming). 
 
 The materials from the course are here:
-    - https://github.com/COGS108
+- https://github.com/COGS108
 In particular, here are a set of quick tutorials (in Jupyter notebooks), including many links to other external resources:
-    - https://github.com/COGS108/SectionMaterials
+- https://github.com/COGS108/SectionMaterials
 Jake VanderPlass also has a great set of Jupyter notebook guides for data science / scientific computing:
-    - https://github.com/jakevdp/PythonDataScienceHandbook
+- https://github.com/jakevdp/PythonDataScienceHandbook
 
 ### Coding Practices
 
-There is more to coding than 
+As you start to get a handle on coding, try to make sure you are writing *good* code - that is, code that follows conventions and style guides, that is written cleary, with documentation, etc. All of this makes it much easier for yourself to keep track of what the code does, and how it works, and also makes it much easier to share code.
 
-Style - Python has a specific and well developed style guide. Check it out, and use it to write code:
-    - PEP8: https://www.python.org/dev/peps/pep-0008/
+Style: Python has a specific and well developed style guide. Check it out, and use it to write code:
+- PEP8: https://www.python.org/dev/peps/pep-0008/
 
-Documentation: It's important to 
-    - Numpy docs: https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt
+Documentation: It's important to document code! One of the best ways to do so is with the numpy docs format:
+- Numpy docs: https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt
 
 
 ## Arduino / Robotics
 
-- If you are at all interested in robotics, then look into Arduino, who make micro-processor boards that can easily be used to make little robots with a variety of sensors and effectors. The most basic board is the Uno, about 25$ from Arduino directly or often cheaper from other stores (like Amazon) and there are also a lot of great ‘starter kits’ that come with a range of sensors and extra parts. Controlling Arduino's means writing code in the Arduino language, which is basically a variant of C. 
-    - https://www.arduino.cc/
+If you are at all interested in robotics, then look into Arduino, who make micro-processor boards that can easily be used to make little robots with a variety of sensors and effectors. The most basic board is the Uno, about 25$ from Arduino directly or often cheaper from other stores (like Amazon) and there are also a lot of great ‘starter kits’ that come with a range of sensors and extra parts. Controlling Arduino's means writing code in the Arduino language, which is basically a variant of C. 
+- https://www.arduino.cc/

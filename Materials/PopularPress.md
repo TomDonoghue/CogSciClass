@@ -6,6 +6,8 @@ Popular Science (News / Magazine Articles / Blogs that might be interesting)
 
 - What is AI?
 	- http://simplystatistics.org/2017/01/19/what-is-artificial-intelligence/
+- Guide to AI:
+	- https://www.wired.com/story/guide-artificial-intelligence/
 - What you wanted to know about AI
 	- http://fastml.com/what-you-wanted-to-know-about-ai/
 	- http://fastml.com/what-you-wanted-to-know-about-ai-part-ii/
